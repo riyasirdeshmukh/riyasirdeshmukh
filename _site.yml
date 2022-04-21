@@ -1,0 +1,11 @@
+name: "riya sirdeshmukh"
+output_dir: "."
+navbar:
+  title: "Riya Sirdeshmukh"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Sirdeshmukh"
+      href: Sirdeshmukh.html
